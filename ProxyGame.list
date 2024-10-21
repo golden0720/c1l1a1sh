@@ -1,0 +1,6 @@
+# 需要代理的游戏平台
+# steam商店、个人资料
+
+DOMAIN,store.steampowered.com
+DOMAIN,steamcommunity.com
+DOMAIN-KEYWORD,store.steam
