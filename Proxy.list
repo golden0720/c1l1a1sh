@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,app.gradient.network
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
